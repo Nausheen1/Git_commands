@@ -1,0 +1,17 @@
+How to Commit a code in Git:
+
+1. Clone the repo in your local using Git Clone.
+
+2.Open the file where we have to make changes
+
+3.After making the changes , check it using :
+Git status
+
+4.If it is reflecting, then add it using:
+Git add --a
+
+5.Git commit -m <Your comment about the change>
+
+6. Git push
+
+Create a pull request after these steps and after approval, merge the changes.
